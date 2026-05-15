@@ -1,0 +1,10 @@
+# Dependências Node
+node_modules/
+
+# Logs do npm
+npm-debug.log*
+package-lock.json
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
